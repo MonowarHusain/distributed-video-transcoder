@@ -1,0 +1,10 @@
+#ignore video files and folders
+input/
+chunks/
+output/
+*.mp4
+*.txt
+
+#ignore python and docker files
+__pycache__/
+.env
